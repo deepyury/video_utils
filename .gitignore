@@ -1,0 +1,30 @@
+.pyc
+idea/
+.idea/
+*__pycache__/
+__pycache__/
+.DS_Store
+*.DS_Store
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+/.project
+/.pydevproject
+
+# log
+.log/
+
+# memory_cache
+memory_cache/
+
+# tests tmp
+tests/tmp_dir
+tests/data
+tests/.cache
+
+#ffmpeg
+ffmpeg
