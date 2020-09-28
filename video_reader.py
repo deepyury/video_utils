@@ -6,7 +6,7 @@ from queue import Queue
 from math import ceil
 
 from time import sleep, time
-from src.utils.utils import frame_skip_ratio
+from utils import frame_skip_ratio
 
 
 class VideoReader:
